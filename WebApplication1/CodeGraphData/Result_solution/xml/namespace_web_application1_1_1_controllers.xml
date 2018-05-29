@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespace_web_application1_1_1_controllers" kind="namespace">
+    <compoundname>WebApplication1::Controllers</compoundname>
+    <innerclass refid="class_web_application1_1_1_controllers_1_1_class1" prot="public">WebApplication1::Controllers::Class1</innerclass>
+    <innerclass refid="class_web_application1_1_1_controllers_1_1_class2" prot="public">WebApplication1::Controllers::Class2</innerclass>
+    <innerclass refid="class_web_application1_1_1_controllers_1_1_home_controller" prot="public">WebApplication1::Controllers::HomeController</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="c:/git/WebApplication1/WebApplication1/Controllers/Class1.cs" line="7" column="1"/>
+  </compounddef>
+</doxygen>

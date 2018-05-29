@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_web_application1_1_1_controllers_1_1_class1" kind="class" prot="public">
+    <compoundname>WebApplication1::Controllers::Class1</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_web_application1_1_1_controllers_1_1_class1_1a32214e3823d2dbd916b2dbadfec2bc82" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>string WebApplication1.Controllers.Class1.Fun1</definition>
+        <argsstring>()</argsstring>
+        <name>Fun1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="c:/git/WebApplication1/WebApplication1/Controllers/Class1.cs" line="10" column="1" bodyfile="c:/git/WebApplication1/WebApplication1/Controllers/Class1.cs" bodystart="10" bodyend="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="c:/git/WebApplication1/WebApplication1/Controllers/Class1.cs" line="9" column="1" bodyfile="c:/git/WebApplication1/WebApplication1/Controllers/Class1.cs" bodystart="8" bodyend="14"/>
+    <listofallmembers>
+      <member refid="class_web_application1_1_1_controllers_1_1_class1_1a32214e3823d2dbd916b2dbadfec2bc82" prot="public" virt="non-virtual"><scope>WebApplication1::Controllers::Class1</scope><name>Fun1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

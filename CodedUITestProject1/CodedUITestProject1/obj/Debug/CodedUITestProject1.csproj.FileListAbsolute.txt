@@ -1,0 +1,5 @@
+c:\git\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+c:\git\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+c:\git\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
+c:\git\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+c:\git\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb

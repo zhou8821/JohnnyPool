@@ -1,0 +1,10 @@
+c:\git\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\git\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+c:\git\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\git\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\git\ConsoleApplication1\ConsoleApplication1\bin\Debug\FSharp.Core.dll
+c:\git\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.ValueTuple.dll
+c:\git\ConsoleApplication1\ConsoleApplication1\bin\Debug\FSharp.Core.xml
+c:\git\ConsoleApplication1\ConsoleApplication1\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+c:\git\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\git\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

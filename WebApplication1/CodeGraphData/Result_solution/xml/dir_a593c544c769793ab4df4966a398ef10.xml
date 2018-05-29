@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_a593c544c769793ab4df4966a398ef10" kind="dir">
+    <compoundname>c:/git/WebApplication1/WebApplication1/Controllers</compoundname>
+    <innerfile refid="_class1_8cs">Class1.cs</innerfile>
+    <innerfile refid="_class2_8cs">Class2.cs</innerfile>
+    <innerfile refid="_home_controller_8cs">HomeController.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="c:/git/WebApplication1/WebApplication1/Controllers/"/>
+  </compounddef>
+</doxygen>

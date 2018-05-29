@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_7fb95f841537c3a41a70d7c1597a08da" kind="dir">
+    <compoundname>c:/git/WebApplication1/WebApplication1/Properties</compoundname>
+    <innerfile refid="_assembly_info_8cs">AssemblyInfo.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="c:/git/WebApplication1/WebApplication1/Properties/"/>
+  </compounddef>
+</doxygen>

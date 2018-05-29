@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespace_web_application1" kind="namespace">
+    <compoundname>WebApplication1</compoundname>
+    <innerclass refid="class_web_application1_1_1_bundle_config" prot="public">WebApplication1::BundleConfig</innerclass>
+    <innerclass refid="class_web_application1_1_1_filter_config" prot="public">WebApplication1::FilterConfig</innerclass>
+    <innerclass refid="class_web_application1_1_1_route_config" prot="public">WebApplication1::RouteConfig</innerclass>
+    <innerclass refid="class_web_application1_1_1_mvc_application" prot="public">WebApplication1::MvcApplication</innerclass>
+    <innernamespace refid="namespace_web_application1_1_1_controllers">WebApplication1::Controllers</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="c:/git/WebApplication1/WebApplication1/App_Start/BundleConfig.cs" line="5" column="1"/>
+  </compounddef>
+</doxygen>

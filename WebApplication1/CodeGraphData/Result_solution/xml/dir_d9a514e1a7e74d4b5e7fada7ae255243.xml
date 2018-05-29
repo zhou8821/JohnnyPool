@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_d9a514e1a7e74d4b5e7fada7ae255243" kind="dir">
+    <compoundname>c:/git/WebApplication1</compoundname>
+    <innerdir refid="dir_abd4e810f0dafa73c5722a76d3906b78">c:/git/WebApplication1/WebApplication1</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="c:/git/WebApplication1/"/>
+  </compounddef>
+</doxygen>

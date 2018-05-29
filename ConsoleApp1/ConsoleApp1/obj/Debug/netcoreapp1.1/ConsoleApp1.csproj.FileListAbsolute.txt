@@ -1,0 +1,9 @@
+c:\git\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.deps.json
+c:\git\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.json
+c:\git\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.dev.json
+c:\git\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.dll
+c:\git\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.pdb
+c:\git\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\git\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.AssemblyInfo.cs
+c:\git\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.dll
+c:\git\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.pdb

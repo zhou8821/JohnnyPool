@@ -1,0 +1,9 @@
+c:\git\RogerZhou\RogerZhou\bin\Debug\netcoreapp1.1\RogerZhou.deps.json
+c:\git\RogerZhou\RogerZhou\bin\Debug\netcoreapp1.1\RogerZhou.runtimeconfig.json
+c:\git\RogerZhou\RogerZhou\bin\Debug\netcoreapp1.1\RogerZhou.runtimeconfig.dev.json
+c:\git\RogerZhou\RogerZhou\bin\Debug\netcoreapp1.1\RogerZhou.dll
+c:\git\RogerZhou\RogerZhou\bin\Debug\netcoreapp1.1\RogerZhou.pdb
+c:\git\RogerZhou\RogerZhou\obj\Debug\netcoreapp1.1\RogerZhou.csprojResolveAssemblyReference.cache
+c:\git\RogerZhou\RogerZhou\obj\Debug\netcoreapp1.1\RogerZhou.AssemblyInfo.cs
+c:\git\RogerZhou\RogerZhou\obj\Debug\netcoreapp1.1\RogerZhou.dll
+c:\git\RogerZhou\RogerZhou\obj\Debug\netcoreapp1.1\RogerZhou.pdb

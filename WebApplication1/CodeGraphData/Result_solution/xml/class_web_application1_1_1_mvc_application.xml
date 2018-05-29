@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_web_application1_1_1_mvc_application" kind="class" prot="public">
+    <compoundname>WebApplication1::MvcApplication</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">HttpApplication</basecompoundref>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_web_application1_1_1_mvc_application_1a1a80bbfa10eebfd8756b20858b70ba64" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void WebApplication1.MvcApplication.Application_Start</definition>
+        <argsstring>()</argsstring>
+        <name>Application_Start</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="c:/git/WebApplication1/WebApplication1/Global.asax.cs" line="13" column="1" bodyfile="c:/git/WebApplication1/WebApplication1/Global.asax.cs" bodystart="13" bodyend="19"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="13">
+        <label>System::Web::HttpApplication</label>
+      </node>
+      <node id="12">
+        <label>WebApplication1.MvcApplication</label>
+        <link refid="class_web_application1_1_1_mvc_application"/>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="15">
+        <label>System::Web::HttpApplication</label>
+      </node>
+      <node id="14">
+        <label>WebApplication1.MvcApplication</label>
+        <link refid="class_web_application1_1_1_mvc_application"/>
+        <childnode refid="15" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="c:/git/WebApplication1/WebApplication1/Global.asax.cs" line="12" column="1" bodyfile="c:/git/WebApplication1/WebApplication1/Global.asax.cs" bodystart="11" bodyend="20"/>
+    <listofallmembers>
+      <member refid="class_web_application1_1_1_mvc_application_1a1a80bbfa10eebfd8756b20858b70ba64" prot="protected" virt="non-virtual"><scope>WebApplication1::MvcApplication</scope><name>Application_Start</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

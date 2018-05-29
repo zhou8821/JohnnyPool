@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_web_application1_1_1_bundle_config" kind="class" prot="public">
+    <compoundname>WebApplication1::BundleConfig</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_web_application1_1_1_bundle_config_1ae0377a457fa9848652946f4f846e62d6" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void WebApplication1.BundleConfig.RegisterBundles</definition>
+        <argsstring>(BundleCollection bundles)</argsstring>
+        <name>RegisterBundles</name>
+        <param>
+          <type>BundleCollection</type>
+          <declname>bundles</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="c:/git/WebApplication1/WebApplication1/App_Start/BundleConfig.cs" line="9" column="1" bodyfile="c:/git/WebApplication1/WebApplication1/App_Start/BundleConfig.cs" bodystart="9" bodyend="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="c:/git/WebApplication1/WebApplication1/App_Start/BundleConfig.cs" line="7" column="1" bodyfile="c:/git/WebApplication1/WebApplication1/App_Start/BundleConfig.cs" bodystart="6" bodyend="30"/>
+    <listofallmembers>
+      <member refid="class_web_application1_1_1_bundle_config_1ae0377a457fa9848652946f4f846e62d6" prot="public" virt="non-virtual"><scope>WebApplication1::BundleConfig</scope><name>RegisterBundles</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

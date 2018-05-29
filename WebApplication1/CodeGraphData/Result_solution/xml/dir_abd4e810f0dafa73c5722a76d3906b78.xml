@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_abd4e810f0dafa73c5722a76d3906b78" kind="dir">
+    <compoundname>c:/git/WebApplication1/WebApplication1</compoundname>
+    <innerdir refid="dir_bad76c0df9a0b4e27598dc9811e94a4c">c:/git/WebApplication1/WebApplication1/App_Start</innerdir>
+    <innerdir refid="dir_a593c544c769793ab4df4966a398ef10">c:/git/WebApplication1/WebApplication1/Controllers</innerdir>
+    <innerdir refid="dir_7fb95f841537c3a41a70d7c1597a08da">c:/git/WebApplication1/WebApplication1/Properties</innerdir>
+    <innerfile refid="_global_8asax_8cs">Global.asax.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="c:/git/WebApplication1/WebApplication1/"/>
+  </compounddef>
+</doxygen>
